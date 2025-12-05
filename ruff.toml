@@ -1,0 +1,7 @@
+target-version = "py312"
+output-format = "concise"
+line-length = 88
+
+lint.select = ["F", "E", "I", "C90", "D"]
+lint.ignore = ["D212", "D413", "D202", "D203", "D100", "D104"]
+lint.exclude = ["artifacts/", "data/"]
