@@ -1,3 +1,8 @@
+*.pdf
+*.pth
+artifacts/logs/
+artifacts/plots/
+
 # Python-generated files
 __pycache__/
 *.py[oc]

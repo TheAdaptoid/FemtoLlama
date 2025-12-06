@@ -1,0 +1,22 @@
+{
+    "control": {
+        "d_model": 256,
+        "num_heads": 4,
+        "num_layers": 4
+    },
+    "more_heads": {
+        "d_model": 256,
+        "num_heads": 8,
+        "num_layers": 4
+    },
+    "more_layers": {
+        "d_model": 256,
+        "num_heads": 4,
+        "num_layers": 8
+    },
+    "more_dimensions": {
+        "d_model": 512,
+        "num_heads": 4,
+        "num_layers": 4
+    }
+}
