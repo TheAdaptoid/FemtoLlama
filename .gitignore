@@ -2,6 +2,7 @@
 *.pth
 artifacts/logs/
 artifacts/plots/
+raw_data.txt
 
 # Python-generated files
 __pycache__/
