@@ -6,6 +6,7 @@ FemtoLlama is a lightweight implementation of transformer-based language models 
 
 ## Project Report
 
+[Project Report (Markdown)](./FemtoLlama_Project_Report.md)
 [Project Report (PDF)](./FemtoLlama_Project_Report.pdf)
 
 ## Usage
