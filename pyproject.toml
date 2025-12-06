@@ -9,7 +9,11 @@ dependencies = [
     "matplotlib>=3.10.7",
     "numpy>=2.3.5",
     "pandas>=2.3.3",
-    "ruff>=0.14.8",
     "torch>=2.9.1",
     "transformers>=4.57.3",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.8",
 ]
