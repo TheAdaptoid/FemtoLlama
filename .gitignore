@@ -1,10 +1,11 @@
-!FemtoLlama_Project_Report.pdf
-
 *.pdf
 *.pth
 artifacts/logs/
 artifacts/plots/
 raw_data.txt
+
+# Exceptions
+!FemtoLlama_Project_Report.pdf
 
 # Python-generated files
 __pycache__/

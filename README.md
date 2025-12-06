@@ -4,6 +4,10 @@
 
 FemtoLlama is a lightweight implementation of transformer-based language models designed for educational purposes and small-scale experiments.
 
+## Project Report
+
+[Project Report (PDF)](./FemtoLlama_Project_Report.pdf)
+
 ## Usage
 
 ### Set up environment
